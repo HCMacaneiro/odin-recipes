@@ -9,9 +9,9 @@ ol {
     font-family: Georgia, sans-serif;
 }
 
-#links {
-    background-color: black;
-    color: white;
+
+.main {
+    text-align: center;
 }
 
 .ingredients {
