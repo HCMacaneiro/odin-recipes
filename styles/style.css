@@ -1,0 +1,16 @@
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(247, 245, 241);
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.link-list {
+    font-size: 24px;
+}
+
